@@ -28,11 +28,6 @@ A **two-player chess game** built in **C++** with **STML graphics**, featuring a
 
 ---
 
-## 📸 Screenshots  
-> Add here: Game board screenshots showing piece movements and gameplay.  
-
----
-
 ## 🚀 Future Enhancements  
 - 🤖 AI opponent for single-player mode  
 - 🎨 Improved GUI design and animations  
